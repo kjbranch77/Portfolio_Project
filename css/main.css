@@ -1,0 +1,9 @@
+.row {
+    height: 200px;
+}
+
+.logo {
+    max-height: 100%;
+    float: left;
+    margin-right: 10px;
+}
