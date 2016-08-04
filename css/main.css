@@ -11,7 +11,8 @@
 }
 
 .portfolio-header {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #2d3c49;
+    color: #7d97ad;
 }
 
 .img-center {
@@ -21,6 +22,13 @@
 .footer {
     margin-top: 15px;
     padding-top: 10px;
-    border-top: 1px solid black;
+    border-top: 1px solid #2d3c49;
+}
+
+.project-title {
+    margin-top: 10px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
 }
 
